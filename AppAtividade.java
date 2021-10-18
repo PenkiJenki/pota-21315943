@@ -2,7 +2,7 @@
 Integrantes do grupo:
 
 Erick Neiva Fava - RA: - 21315943
-Gustavo de campos araujo caramelo - RA: 21308545
+Gustavo de Campos Araujo Caramelo - RA: 21308545
 Marcio Pagliuco Cardoso - RA: 21337130
 Matheus Rodrigues Mariano - RA: 20959588
 */
